@@ -20,6 +20,26 @@ This is a learning project covering embedded firmware, schematic design, and PCB
 
 ---
 
+## Related Project
+
+This repository is a simplified hardware redesign of the original Delirium Memory Game project.
+
+The original project focused on a more advanced **RGB** memory game system with expanded gameplay logic and additional hardware features.
+
+This repository focuses specifically on:
+
+- **ESP32** hardware prototyping
+- KiCad **PCB** design
+- breadboard testing
+- **PCB** manufacturing preparation
+- beginner-friendly embedded hardware development
+
+Original project repository:
+
+➡️ [https://github.com/siddhipatel911/Delirium-Memory-Game](https://github.com/siddhipatel911/Delirium-Memory-Game)
+
+---
+
 ## Hardware Overview
 
 - **Microcontroller:** ESP32-WROOM-32E dev board (removable via female socket headers)
